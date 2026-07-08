@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Kedars7/Linked-List/tree/main/0037-sudoku-solver/) | Hard |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/Kedars7/Linked-List/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kedars7/Linked-List/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
