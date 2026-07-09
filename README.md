@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Kedars7/Linked-List/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0037-sudoku-solver](https://github.com/Kedars7/Linked-List/tree/main/0037-sudoku-solver/) | Hard |
+| [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kedars7/Linked-List/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -79,5 +81,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
