@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kedars7/Linked-List/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kedars7/Linked-List/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Kedars7/Linked-List/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Kedars7/Linked-List/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kedars7/Linked-List/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Kedars7/Linked-List/tree/main/0704-binary-search/) | Easy |
 ## Sorting
