@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kedars7/Linked-List/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
@@ -116,4 +117,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kedars7/Linked-List/tree/main/0054-spiral-matrix/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kedars7/Linked-List/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
