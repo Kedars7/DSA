@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
+| [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kedars7/Linked-List/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Kedars7/Linked-List/tree/main/0037-sudoku-solver/) | Hard |
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Kedars7/Linked-List/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
+| [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Kedars7/Linked-List/tree/main/0796-rotate-string/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kedars7/Linked-List/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
