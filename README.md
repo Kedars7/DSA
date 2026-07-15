@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kedars7/Linked-List/tree/main/0002-add-two-numbers/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kedars7/Linked-List/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kedars7/Linked-List/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Kedars7/Linked-List/tree/main/0382-linked-list-random-node/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Kedars7/Linked-List/tree/main/0037-sudoku-solver/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Kedars7/Linked-List/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kedars7/Linked-List/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
 ## Backtracking
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kedars7/Linked-List/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Kedars7/Linked-List/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0876-middle-of-the-linked-list/) | Easy |
