@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Kedars7/Linked-List/tree/main/0382-linked-list-random-node/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kedars7/Linked-List/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
