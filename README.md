@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Kedars7/Linked-List/tree/main/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/Kedars7/Linked-List/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/Kedars7/Linked-List/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Kedars7/Linked-List/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Kedars7/Linked-List/tree/main/0382-linked-list-random-node/) | Medium |
