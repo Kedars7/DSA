@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Kedars7/Linked-List/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Kedars7/Linked-List/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Kedars7/Linked-List/tree/main/0039-combination-sum/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kedars7/Linked-List/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/Kedars7/Linked-List/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Kedars7/Linked-List/tree/main/0048-rotate-image/) | Medium |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kedars7/Linked-List/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Kedars7/Linked-List/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Kedars7/Linked-List/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Kedars7/Linked-List/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -137,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kedars7/Linked-List/tree/main/0045-jump-game-ii/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kedars7/Linked-List/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Simulation
@@ -166,4 +169,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Kedars7/Linked-List/tree/main/0796-rotate-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
