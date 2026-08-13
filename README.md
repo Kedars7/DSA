@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Kedars7/Linked-List/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Kedars7/Linked-List/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Kedars7/Linked-List/tree/main/0048-rotate-image/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Kedars7/Linked-List/tree/main/0382-linked-list-random-node/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Kedars7/Linked-List/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -146,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Kedars7/Linked-List/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Kedars7/Linked-List/tree/main/0045-jump-game-ii/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kedars7/Linked-List/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -190,4 +192,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Kedars7/Linked-List/tree/main/0056-merge-intervals/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->
