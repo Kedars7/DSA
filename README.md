@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -196,12 +197,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
