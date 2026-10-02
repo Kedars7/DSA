@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/Kedars7/Linked-List/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Kedars7/Linked-List/tree/main/1189-maximum-number-of-balloons/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
 | [0796-rotate-string](https://github.com/Kedars7/Linked-List/tree/main/0796-rotate-string/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Kedars7/Linked-List/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Kedars7/Linked-List/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -226,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kedars7/Linked-List/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Kedars7/Linked-List/tree/main/1189-maximum-number-of-balloons/) | Easy |
 <!---LeetCode Topics End-->
