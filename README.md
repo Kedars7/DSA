@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/Kedars7/Linked-List/tree/main/0704-binary-search/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kedars7/Linked-List/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kedars7/Linked-List/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2239-find-closest-number-to-zero](https://github.com/Kedars7/Linked-List/tree/main/2239-find-closest-number-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
