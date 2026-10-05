@@ -12,14 +12,11 @@ public:
             j++;
         }
 
-        while(i < n1) {
-            res += word1[i];
-            i++;
+        if(i < n1) {
+            res = res + word1.substr(i);
         }
-
-        while(j < n2) {
-            res += word2[j];
-            j++;
+        else if( j < n2) {
+            res = res + word2.substr(j);
         }
 
         return res;
