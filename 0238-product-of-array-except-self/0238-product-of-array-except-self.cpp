@@ -2,8 +2,9 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
-        int zeroCnt = 0;
+        if(n <= 1) return nums;
         vector<int> res(n, 0);
+        int zeroCnt = 0;
         int suffix = 1;
         for(int i=n-1; i>=0; i--) {
             if(nums[i] == 0) {
