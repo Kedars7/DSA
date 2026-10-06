@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
@@ -224,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -262,4 +265,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kedars7/Linked-List/tree/main/0238-product-of-array-except-self/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
