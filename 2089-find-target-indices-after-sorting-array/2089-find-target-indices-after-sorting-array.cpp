@@ -7,6 +7,7 @@ public:
         vector<int> res;
         for(int i=0; i<n; i++) {
             if(nums[i] == target) res.emplace_back(i);
+            else if(nums[i] > target) break;
         }
 
         return res;
