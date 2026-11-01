@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/Kedars7/Linked-List/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/Kedars7/Linked-List/tree/main/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/Kedars7/Linked-List/tree/main/0048-rotate-image/) | Medium |
+| [0067-add-binary](https://github.com/Kedars7/Linked-List/tree/main/0067-add-binary/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/Kedars7/Linked-List/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/Kedars7/Linked-List/tree/main/0189-rotate-array/) | Medium |
 | [0382-linked-list-random-node](https://github.com/Kedars7/Linked-List/tree/main/0382-linked-list-random-node/) | Medium |
@@ -179,12 +180,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Kedars7/Linked-List/tree/main/0054-spiral-matrix/) | Medium |
+| [0067-add-binary](https://github.com/Kedars7/Linked-List/tree/main/0067-add-binary/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kedars7/Linked-List/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Kedars7/Linked-List/tree/main/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0067-add-binary](https://github.com/Kedars7/Linked-List/tree/main/0067-add-binary/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Kedars7/Linked-List/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Kedars7/Linked-List/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Kedars7/Linked-List/tree/main/0242-valid-anagram/) | Easy |
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/Kedars7/Linked-List/tree/main/0067-add-binary/) | Easy |
 | [0090-subsets-ii](https://github.com/Kedars7/Linked-List/tree/main/0090-subsets-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Kedars7/Linked-List/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kedars7/Linked-List/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
