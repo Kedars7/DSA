@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Kedars7/Linked-List/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Kedars7/Linked-List/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
+| [0547-number-of-provinces](https://github.com/Kedars7/Linked-List/tree/main/0547-number-of-provinces/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -282,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0226-invert-binary-tree](https://github.com/Kedars7/Linked-List/tree/main/0226-invert-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Kedars7/Linked-List/tree/main/0547-number-of-provinces/) | Medium |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,4 +308,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Kedars7/Linked-List/tree/main/1461-check-if-a-string-contains-all-binary-codes-of-size-k/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kedars7/Linked-List/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Kedars7/Linked-List/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
